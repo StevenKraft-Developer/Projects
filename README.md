@@ -1,2 +1,2 @@
-# TechElevator-Practice
+#Projects
 Repositories Course
