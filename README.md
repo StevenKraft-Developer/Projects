@@ -1,2 +1,2 @@
 #Projects
-Repositories Course
+Repositories
